@@ -1,2 +1,2 @@
 # lab5-csharp
-no desription
+Строки и коллекции
